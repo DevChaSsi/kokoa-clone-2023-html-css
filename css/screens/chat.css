@@ -137,11 +137,11 @@
 .reply__column:last-child > i,
 .reply__column:last-child button {
   position: absolute;
-  right: -18px;
+  right: 5px;
   top: 5px;
 }
 .reply__column:last-child > i {
-  right: 23px;
+  right: 45px;
   top: 20px;
 }
 .reply__column button {
