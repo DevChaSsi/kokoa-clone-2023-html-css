@@ -4,7 +4,6 @@
   align-items: center;
   padding: 40px var(--horizontal-space);
 }
-
 .screen-header__title {
   font-size: 32px;
   font-weight: 600;
