@@ -37,14 +37,15 @@
   color: rgba(0, 0, 0, 0.4);
 }
 #login-form input:focus {
-  border-color: var(--yellow);
+  border-color: var(--maincolor);
 }
 
 #login-form input[type='submit'] {
-  background-color: var(--yellow);
+  background-color: var(--maincolor);
   cursor: pointer;
   padding: 20px 0px;
   border-radius: 5px;
+  color: var(--textcolor);
 }
 
 #login-form a {
